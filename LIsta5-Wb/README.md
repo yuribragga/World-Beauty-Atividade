@@ -1,4 +1,4 @@
-#⚡️ WB - Grupo World Beauty
+# ⚡️ WB - Grupo World Beauty
 Bem-vindo ao repositório do projeto WB! Este é um sistema de gerenciamento desenvolvido para gerenciar um grupo com um modelo de negócios focado em pequenas unidades espalhadas por várias cidades do país. O projeto foi desenvolvido em várias iterações.
 
 # 📊 Descrição do Projeto
